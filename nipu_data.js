@@ -266,8 +266,12 @@ function timeDiff(dataList) {
     i.Call_Closed_Time = convertTime12to24(i.Call_Closed_Time);
     i.days = (new Date(i.Call_Closed_Date) - new Date(i.Call_down_date)) / (1000 * 60 * 60 * 24);
     i.start = `${i.Call_down_date} ${i.Call_down_time}`;
+    i.start_last = `${i.Call_down_date} 18:00`;
+    i.end_first = `${i.Call_Closed_Date} 09:00`;
     i.end = `${i.Call_Closed_Date} ${i.Call_Closed_Time}`;
-    let msDifference =  new Date(i.end).getTime() - new Date(i.start).getTime();
+    i.startDiff = (new Date(i.start_last).getTime() - new Date(i.start).getTime()) / 1000 / 60;
+    i.endDiff = (new Date(i.end).getTime() - new Date(i.end_first).getTime()) / 1000 / 60;
+    let msDifference =  (new Date(i.end).getTime() - new Date(i.start).getTime()) / 1000 / 60;
     i = {...i};
     i.diff = msDifference;
     console.log(i);
