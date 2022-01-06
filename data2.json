@@ -1,0 +1,662 @@
+[
+  {
+    "DPCode": 6063,
+    "Location": "6063_PALAM_RAJ_NAGARII_Router",
+    "Call_down_date": "27/04/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "28/04/21",
+    "Call_Closed_Time": "2:00 PM",
+    "StartDate_Time": "27/4/2021 9:45 AM",
+    "EndDate_Time": "28/4/2021 2:00 PM"
+  },
+  {
+    "DPCode": 6378,
+    "Location": "6378_KANJHAWALA_Router",
+    "Call_down_date": "28/04/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "06/05/21",
+    "Call_Closed_Time": "2:30 PM",
+    "StartDate_Time": "28/4/2021 9:40 AM",
+    "EndDate_Time": "6/5/2021 2:30 PM"
+  },
+  {
+    "DPCode": 8670,
+    "Location": "8670_NEW_KALINDI_COLLEGE_Router",
+    "Call_down_date": "29/04/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "03/05/21",
+    "Call_Closed_Time": "1:15 PM",
+    "StartDate_Time": "29/4/2021 9:45 AM",
+    "EndDate_Time": "3/5/2021 1:15 PM"
+  },
+  {
+    "DPCode": 2024,
+    "Location": "2024_TRINAGAR_Router",
+    "Call_down_date": "30/04/21",
+    "Call_down_time": "9:55 AM",
+    "Call_Closed_Date": "04/05/21",
+    "Call_Closed_Time": "5:00 PM",
+    "StartDate_Time": "30/4/2021 9:55 AM",
+    "EndDate_Time": "4/5/2021 5:00 PM"
+  },
+  {
+    "DPCode": 2413,
+    "Location": "2413_SPECIALISED_SME_BRANCH_Router",
+    "Call_down_date": "01/05/21",
+    "Call_down_time": "10:20 AM",
+    "Call_Closed_Date": "13/05/21",
+    "Call_Closed_Time": "6:00 PM",
+    "StartDate_Time": "1/5/2021 10:20 AM",
+    "EndDate_Time": "13/5/2021 6:00 PM"
+  },
+  {
+    "DPCode": 2876,
+    "Location": "2876_DWARKA_SECTOR_12_Router",
+    "Call_down_date": "01/05/21",
+    "Call_down_time": "10:20 AM",
+    "Call_Closed_Date": "10/05/21",
+    "Call_Closed_Time": "5:00 PM",
+    "StartDate_Time": "1/5/2021 10:20 AM",
+    "EndDate_Time": "10/5/2021 5:00 PM"
+  },
+  {
+    "DPCode": 3009,
+    "Location": "3009_UCMS_GTB_Router",
+    "Call_down_date": "07/05/21",
+    "Call_down_time": "10:15 AM",
+    "Call_Closed_Date": "17/05/21",
+    "Call_Closed_Time": "2:00 PM",
+    "StartDate_Time": "7/5/2021 10:15 AM",
+    "EndDate_Time": "17/5/2021 2:00 PM"
+  },
+  {
+    "DPCode": 2592,
+    "Location": "2592_MODEL_TOWN_Router",
+    "Call_down_date": "10/05/21",
+    "Call_down_time": "10:15 AM",
+    "Call_Closed_Date": "15/05/21",
+    "Call_Closed_Time": "1:10 PM",
+    "StartDate_Time": "10/5/2021 10:15 AM",
+    "EndDate_Time": "15/5/2021 1:10 PM"
+  },
+  {
+    "DPCode": 8670,
+    "Location": "8670_NEW_KALINDI_COLLEGE_Router",
+    "Call_down_date": "10/05/21",
+    "Call_down_time": "10:15 AM",
+    "Call_Closed_Date": "19/05/21",
+    "Call_Closed_Time": "11:00 AM",
+    "StartDate_Time": "10/5/2021 10:15 AM",
+    "EndDate_Time": "19/5/2021 11:00 AM"
+  },
+  {
+    "DPCode": 2017,
+    "Location": "2017_MAYAPURI",
+    "Call_down_date": "11/05/21",
+    "Call_down_time": "10:15 AM",
+    "Call_Closed_Date": "12/05/21",
+    "Call_Closed_Time": "12:50 PM",
+    "StartDate_Time": "11/5/2021 10:15 AM",
+    "EndDate_Time": "12/5/2021 12:50 PM"
+  },
+  {
+    "DPCode": 1300,
+    "Location": "1300_VIVEK_VIHAR",
+    "Call_down_date": "11/05/21",
+    "Call_down_time": "10:15 AM",
+    "Call_Closed_Date": "12/05/21",
+    "Call_Closed_Time": "1:50 PM",
+    "StartDate_Time": "11/5/2021 10:15 AM",
+    "EndDate_Time": "12/5/2021 1:50 PM"
+  },
+  {
+    "DPCode": 6378,
+    "Location": "6378_KANJHAWALA_Router",
+    "Call_down_date": "13/05/21",
+    "Call_down_time": "9:50 AM",
+    "Call_Closed_Date": "17/05/21",
+    "Call_Closed_Time": "10:30 AM",
+    "StartDate_Time": "13/5/2021 9:50 AM",
+    "EndDate_Time": "17/5/2021 10:30 AM"
+  },
+  {
+    "DPCode": 1300,
+    "Location": "1300_VIVEK_VIHAR",
+    "Call_down_date": "13/05/21",
+    "Call_down_time": "11:45 AM",
+    "Call_Closed_Date": "13/05/21",
+    "Call_Closed_Time": "12:45 PM",
+    "StartDate_Time": "13/5/2021 11:45 AM",
+    "EndDate_Time": "13/5/2021 12:45 PM"
+  },
+  {
+    "DPCode": 389,
+    "Location": "389_KASHMIRI_GATE_Router",
+    "Call_down_date": "15/05/21",
+    "Call_down_time": "10:00 AM",
+    "Call_Closed_Date": "16/05/21",
+    "Call_Closed_Time": "10:30 AM",
+    "StartDate_Time": "15/5/2021 10:00 AM",
+    "EndDate_Time": "16/5/2021 10:30 AM"
+  },
+  {
+    "DPCode": 2413,
+    "Location": "2413_SPECIALISED_SME_BRANCH_Router",
+    "Call_down_date": "15/05/21",
+    "Call_down_time": "10:00 AM",
+    "Call_Closed_Date": "19/05/21",
+    "Call_Closed_Time": "12:00 PM",
+    "StartDate_Time": "15/5/2021 10:00 AM",
+    "EndDate_Time": "19/5/2021 12:00 PM"
+  },
+  {
+    "DPCode": 4126,
+    "Location": "4126_SPECIALISED_SME_BRANCH_Router",
+    "Call_down_date": "15/05/21",
+    "Call_down_time": "10:00 AM",
+    "Call_Closed_Date": "16/05/21",
+    "Call_Closed_Time": "1:00 PM",
+    "StartDate_Time": "15/5/2021 10:00 AM",
+    "EndDate_Time": "16/5/2021 1:00 PM"
+  },
+  {
+    "DPCode": 2010,
+    "Location": "21010 Shakti Nagar",
+    "Call_down_date": "15/05/21",
+    "Call_down_time": "10:05 AM",
+    "Call_Closed_Date": "18/05/21",
+    "Call_Closed_Time": "1:15 PM",
+    "StartDate_Time": "15/5/2021 10:05 AM",
+    "EndDate_Time": "18/5/2021 1:15 PM"
+  },
+  {
+    "DPCode": 3222,
+    "Location": "3222_NEW_YAMUNA_VIHAR",
+    "Call_down_date": "18/05/21",
+    "Call_down_time": "10:10 AM",
+    "Call_Closed_Date": "19/05/21",
+    "Call_Closed_Time": "1:30 PM",
+    "StartDate_Time": "18/5/2021 10:10 AM",
+    "EndDate_Time": "19/5/2021 1:30 PM"
+  },
+  {
+    "DPCode": 3333,
+    "Location": "3333_KARKARDOOMA_SD-WAN",
+    "Call_down_date": "19/05/21",
+    "Call_down_time": "10:15 AM",
+    "Call_Closed_Date": "24/05/21",
+    "Call_Closed_Time": "10:50 AM",
+    "StartDate_Time": "19/5/2021 10:15 AM",
+    "EndDate_Time": "24/5/2021 10:50 AM"
+  },
+  {
+    "DPCode": 2983,
+    "Location": "2983_NARELA_SD-WAN",
+    "Call_down_date": "20/05/21",
+    "Call_down_time": "10:40 AM",
+    "Call_Closed_Date": "21/05/21",
+    "Call_Closed_Time": "12:00 PM",
+    "StartDate_Time": "20/5/2021 10:40 AM",
+    "EndDate_Time": "21/5/2021 12:00 PM"
+  },
+  {
+    "DPCode": 5866,
+    "Location": "5866_KONDLI_Router",
+    "Call_down_date": "20/05/21",
+    "Call_down_time": "10:40 AM",
+    "Call_Closed_Date": "24/05/21",
+    "Call_Closed_Time": "10:00 AM",
+    "StartDate_Time": "20/5/2021 10:40 AM",
+    "EndDate_Time": "24/5/2021 10:00 AM%                                                                                abc@abcs-MacBook-Air Downloads % cat NIPU_Data2.csv"
+  },
+  {
+    "DPCode": "DPCode",
+    "Location": "Location",
+    "Call_down_date": "Call_down_date",
+    "Call_down_time": "Call_down_time",
+    "Call_Closed_Date": "Call_Closed_Date",
+    "Call_Closed_Time": "Call_Closed_Time",
+    "StartDate_Time": "StartDate_Time",
+    "EndDate_Time": "EndDate_Time"
+  },
+  {
+    "DPCode": 2591,
+    "Location": "2591_SARITA_VIHAR_SD-WAN",
+    "Call_down_date": "21/05/21",
+    "Call_down_time": "10:10 AM",
+    "Call_Closed_Date": "22/05/21",
+    "Call_Closed_Time": "7:00 PM",
+    "StartDate_Time": "21/5/2021 10:10 AM",
+    "EndDate_Time": "22/5/2021 7:00 PM"
+  },
+  {
+    "DPCode": 2824,
+    "Location": "2824_VASUNDHARA_ENCLAVE_SD-WAN",
+    "Call_down_date": "21/05/21",
+    "Call_down_time": "10:10 AM",
+    "Call_Closed_Date": "24/05/21",
+    "Call_Closed_Time": "3:00 PM",
+    "StartDate_Time": "21/5/2021 10:10 AM",
+    "EndDate_Time": "24/5/2021 3:00 PM"
+  },
+  {
+    "DPCode": 6378,
+    "Location": "6378_KANJHAWALA_SD-WAN",
+    "Call_down_date": "21/05/21",
+    "Call_down_time": "10:10 AM",
+    "Call_Closed_Date": "21/05/21",
+    "Call_Closed_Time": "10:20 AM",
+    "StartDate_Time": "21/5/2021 10:10 AM",
+    "EndDate_Time": "21/5/2021 10:20 AM"
+  },
+  {
+    "DPCode": 271,
+    "Location": "271_SADAR_BAZAR_SD-WAN",
+    "Call_down_date": "24/05/21",
+    "Call_down_time": "9:50 AM",
+    "Call_Closed_Date": "25/05/21",
+    "Call_Closed_Time": "1:50 PM",
+    "StartDate_Time": "24/5/2021 9:50 AM",
+    "EndDate_Time": "25/5/2021 1:50 PM"
+  },
+  {
+    "DPCode": 2848,
+    "Location": "2848_HANSRAJ_COLLEGE_SD-WAN",
+    "Call_down_date": "24/05/21",
+    "Call_down_time": "9:50 AM",
+    "Call_Closed_Date": "25/05/21",
+    "Call_Closed_Time": "5:50 PM",
+    "StartDate_Time": "24/5/2021 9:50 AM",
+    "EndDate_Time": "25/5/2021 5:50 PM"
+  },
+  {
+    "DPCode": 5021,
+    "Location": "5021_SPECIALISED_SME_BRANCH_Router",
+    "Call_down_date": "24/05/21",
+    "Call_down_time": "9:50 AM",
+    "Call_Closed_Date": "25/05/21",
+    "Call_Closed_Time": "12:00 PM",
+    "StartDate_Time": "24/5/2021 9:50 AM",
+    "EndDate_Time": "25/5/2021 12:00 PM"
+  },
+  {
+    "DPCode": 8461,
+    "Location": "8461_INST._OF_ECONOMIC_GROWTH_SD-WAN",
+    "Call_down_date": "24/05/21",
+    "Call_down_time": "9:50 AM",
+    "Call_Closed_Date": "25/05/21",
+    "Call_Closed_Time": "5:50 PM",
+    "StartDate_Time": "24/5/2021 9:50 AM",
+    "EndDate_Time": "25/5/2021 5:50 PM"
+  },
+  {
+    "DPCode": 8461,
+    "Location": "8461_INST._OF_ECONOMIC_GROWTH_SD-WAN",
+    "Call_down_date": "27/05/21",
+    "Call_down_time": "9:35 AM",
+    "Call_Closed_Date": "28/05/21",
+    "Call_Closed_Time": "5:00 PM",
+    "StartDate_Time": "27/5/2021 9:35 AM",
+    "EndDate_Time": "28/5/2021 5:00 PM"
+  },
+  {
+    "DPCode": 3009,
+    "Location": "3009_UCMS_GTB_SD-WAN",
+    "Call_down_date": "28/05/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "29/05/21",
+    "Call_Closed_Time": "12:00 PM",
+    "StartDate_Time": "28/5/2021 9:40 AM",
+    "EndDate_Time": "29/5/2021 12:00 PM"
+  },
+  {
+    "DPCode": 5120,
+    "Location": "5120_KHANPUR_Router",
+    "Call_down_date": "28/05/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "29/05/21",
+    "Call_Closed_Time": "2:30 PM",
+    "StartDate_Time": "28/5/2021 9:40 AM",
+    "EndDate_Time": "29/5/2021 2:30 PM"
+  },
+  {
+    "DPCode": 271,
+    "Location": "271_SADAR_BAZAR_SD-WAN",
+    "Call_down_date": "28/05/21",
+    "Call_down_time": "12:30 PM",
+    "Call_Closed_Date": "29/05/21",
+    "Call_Closed_Time": "10:45 AM",
+    "StartDate_Time": "28/5/2021 12:30 PM",
+    "EndDate_Time": "29/5/2021 10:45 AM"
+  },
+  {
+    "DPCode": 4889,
+    "Location": "4889_NANGLOI_JAT_SD-WAN",
+    "Call_down_date": "31/05/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "01/06/21",
+    "Call_Closed_Time": "10:15 AM",
+    "StartDate_Time": "31/5/2021 9:45 AM",
+    "EndDate_Time": "1/6/2021 10:15 AM"
+  },
+  {
+    "DPCode": 5801,
+    "Location": "5801_MULTAN_NAGAR_Router",
+    "Call_down_date": "31/05/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "01/06/21",
+    "Call_Closed_Time": "2:00 PM",
+    "StartDate_Time": "31/5/2021 9:45 AM",
+    "EndDate_Time": "1/6/2021 2:00 PM"
+  },
+  {
+    "DPCode": 8670,
+    "Location": "8670_NEW_KALINDI_COLLEGE_SD-WAN",
+    "Call_down_date": "31/05/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "01/06/21",
+    "Call_Closed_Time": "2:15 PM",
+    "StartDate_Time": "31/5/2021 9:45 AM",
+    "EndDate_Time": "1/6/2021 2:15 PM"
+  },
+  {
+    "DPCode": 2016,
+    "Location": "2016_KESHAVPURAM_(LAWRENCE_ROAD)_SD-WAN",
+    "Call_down_date": "03/06/21",
+    "Call_down_time": "9:35 AM",
+    "Call_Closed_Date": "04/06/21",
+    "Call_Closed_Time": "6:00 PM",
+    "StartDate_Time": "3/6/2021 9:35 AM",
+    "EndDate_Time": "4/6/2021 6:00 PM"
+  },
+  {
+    "DPCode": 2925,
+    "Location": "2925_BURARI_SD-WAN",
+    "Call_down_date": "03/06/21",
+    "Call_down_time": "1:00 PM",
+    "Call_Closed_Date": "04/06/21",
+    "Call_Closed_Time": "10:00 AM",
+    "StartDate_Time": "3/6/2021 1:00 PM",
+    "EndDate_Time": "4/6/2021 10:00 AM"
+  },
+  {
+    "DPCode": 1386,
+    "Location": "1386_RAJOURI_GARDEN_SD-WAN",
+    "Call_down_date": "04/06/21",
+    "Call_down_time": "9:50 AM",
+    "Call_Closed_Date": "05/06/21",
+    "Call_Closed_Time": "12:00 PM",
+    "StartDate_Time": "4/6/2021 9:50 AM",
+    "EndDate_Time": "5/6/2021 12:00 PM"
+  },
+  {
+    "DPCode": 5913,
+    "Location": "5913_ADARSH_NAGAR_SD-WAN",
+    "Call_down_date": "04/06/21",
+    "Call_down_time": "5:00 PM",
+    "Call_Closed_Date": "05/06/21",
+    "Call_Closed_Time": "11:30 AM",
+    "StartDate_Time": "4/6/2021 5:00 PM",
+    "EndDate_Time": "5/6/2021 11:30 AM"
+  },
+  {
+    "DPCode": 5120,
+    "Location": "5120_KHANPUR_Router",
+    "Call_down_date": "05/06/21",
+    "Call_down_time": "12:30 PM",
+    "Call_Closed_Date": "06/06/21",
+    "Call_Closed_Time": "12:25 PM",
+    "StartDate_Time": "5/6/2021 12:30 PM",
+    "EndDate_Time": "6/6/2021 12:25 PM"
+  },
+  {
+    "DPCode": 2384,
+    "Location": "2384_KIRTI_NAGAR_Router",
+    "Call_down_date": "07/06/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "08/06/21",
+    "Call_Closed_Time": "12:45 PM",
+    "StartDate_Time": "7/6/2021 9:40 AM",
+    "EndDate_Time": "8/6/2021 12:45 PM"
+  },
+  {
+    "DPCode": 389,
+    "Location": "389_KASHMIRI_GATE_SD-WAN",
+    "Call_down_date": "07/06/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "08/06/21",
+    "Call_Closed_Time": "12:45 PM",
+    "StartDate_Time": "7/6/2021 9:40 AM",
+    "EndDate_Time": "8/6/2021 12:45 PM"
+  },
+  {
+    "DPCode": 8458,
+    "Location": "8458_INDRAPRASTHA_COLL_FOR_WOMEN_SD-WAN",
+    "Call_down_date": "07/06/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "08/06/21",
+    "Call_Closed_Time": "3:30 PM",
+    "StartDate_Time": "7/6/2021 9:40 AM",
+    "EndDate_Time": "8/6/2021 3:30 PM"
+  },
+  {
+    "DPCode": 8470,
+    "Location": "8470_I_T_P_O_SD-WAN",
+    "Call_down_date": "07/06/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "08/06/21",
+    "Call_Closed_Time": "12:25 PM",
+    "StartDate_Time": "7/6/2021 9:40 AM",
+    "EndDate_Time": "8/6/2021 12:25 PM"
+  },
+  {
+    "DPCode": 1386,
+    "Location": "1386_RAJOURI_GARDEN_SD-WAN",
+    "Call_down_date": "07/06/21",
+    "Call_down_time": "1:00 PM",
+    "Call_Closed_Date": "07/06/21",
+    "Call_Closed_Time": "10:00 AM",
+    "StartDate_Time": "7/6/2021 1:00 PM",
+    "EndDate_Time": "7/6/2021 10:00 AM"
+  },
+  {
+    "DPCode": 267,
+    "Location": "267_SOUTH_EXTENSION_SD-WAN",
+    "Call_down_date": "08/06/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "09/06/21",
+    "Call_Closed_Time": "11:50 AM",
+    "StartDate_Time": "8/6/2021 9:40 AM",
+    "EndDate_Time": "9/6/2021 11:50 AM"
+  },
+  {
+    "DPCode": 5120,
+    "Location": "5120_KHANPUR_Router",
+    "Call_down_date": "08/06/21",
+    "Call_down_time": "9:40 AM",
+    "Call_Closed_Date": "11/06/21",
+    "Call_Closed_Time": "5:45 PM",
+    "StartDate_Time": "8/6/2021 9:40 AM",
+    "EndDate_Time": "11/6/2021 5:45 PM"
+  },
+  {
+    "DPCode": 2592,
+    "Location": "2592_MODEL_TOWN_SD-WAN",
+    "Call_down_date": "09/06/21",
+    "Call_down_time": "10:00 AM",
+    "Call_Closed_Date": "11/06/21",
+    "Call_Closed_Time": "1:00 PM",
+    "StartDate_Time": "9/6/2021 10:00 AM",
+    "EndDate_Time": "11/6/2021 1:00 PM"
+  },
+  {
+    "DPCode": 6384,
+    "Location": "6384_ANAND_VIHAR_SD-WAN",
+    "Call_down_date": "09/06/21",
+    "Call_down_time": "2:35 PM",
+    "Call_Closed_Date": "11/06/21",
+    "Call_Closed_Time": "1:30 PM",
+    "StartDate_Time": "9/6/2021 2:35 PM",
+    "EndDate_Time": "11/6/2021 1:30 PM"
+  },
+  {
+    "DPCode": 2419,
+    "Location": "2419_SHASTRI_NAGAR_SD-WAN",
+    "Call_down_date": "11/06/21",
+    "Call_down_time": "2:45 PM",
+    "Call_Closed_Date": "18/06/21",
+    "Call_Closed_Time": "3:30 PM",
+    "StartDate_Time": "11/6/2021 2:45 PM",
+    "EndDate_Time": "18/6/2021 3:30 PM"
+  },
+  {
+    "DPCode": 6378,
+    "Location": "6378_KANJHAWALA_SD-WAN",
+    "Call_down_date": "11/06/21",
+    "Call_down_time": "2:45 PM",
+    "Call_Closed_Date": "24/06/21",
+    "Call_Closed_Time": "1:50 PM",
+    "StartDate_Time": "11/6/2021 2:45 PM",
+    "EndDate_Time": "24/6/2021 1:50 PM"
+  },
+  {
+    "DPCode": 1300,
+    "Location": "1300_VIVEK_VIHAR_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "15/06/21",
+    "Call_Closed_Time": "5:00 PM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "15/6/2021 5:00 PM"
+  },
+  {
+    "DPCode": 2016,
+    "Location": "2016_KESHAVPURAM_(LAWRENCE_ROAD)_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "16/06/21",
+    "Call_Closed_Time": "4:15 PM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "16/6/2021 4:15 PM"
+  },
+  {
+    "DPCode": 2379,
+    "Location": "2379_UTTAM_NAGAR_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "22/06/21",
+    "Call_Closed_Time": "3:51 PM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "22/6/2021 3:51 PM"
+  },
+  {
+    "DPCode": 2592,
+    "Location": "2592_MODEL_TOWN_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "16/06/21",
+    "Call_Closed_Time": "1:45 PM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "16/6/2021 1:45 PM"
+  },
+  {
+    "DPCode": 2876,
+    "Location": "2876_DWARKA_SECTOR_12_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "16/06/21",
+    "Call_Closed_Time": "2:00 PM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "16/6/2021 2:00 PM"
+  },
+  {
+    "DPCode": 2947,
+    "Location": "2947_YAMUNA_VIHAR_II_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "15/06/21",
+    "Call_Closed_Time": "11:45 AM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "15/6/2021 11:45 AM"
+  },
+  {
+    "DPCode": 2983,
+    "Location": "2983_NARELA_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "17/06/21",
+    "Call_Closed_Time": "3:30 PM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "17/6/2021 3:30 PM"
+  },
+  {
+    "DPCode": 6204,
+    "Location": "6204_SHAHDARA_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "15/06/21",
+    "Call_Closed_Time": "3:30 PM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "15/6/2021 3:30 PM"
+  },
+  {
+    "DPCode": 8546,
+    "Location": "8546_INST.OF_CO.SECRETARIES_OF_INDIA_SD-WAN",
+    "Call_down_date": "14/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "18/06/21",
+    "Call_Closed_Time": "11:30 AM",
+    "StartDate_Time": "14/6/2021 9:45 AM",
+    "EndDate_Time": "18/6/2021 11:30 AM"
+  },
+  {
+    "DPCode": 2848,
+    "Location": "2848_HANSRAJ_COLLEGE_SD-WAN",
+    "Call_down_date": "17/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "17/06/21",
+    "Call_Closed_Time": "",
+    "StartDate_Time": "17/6/2021 9:45 AM",
+    "EndDate_Time": "17/6/2021 12:00 AM"
+  },
+  {
+    "DPCode": 5021,
+    "Location": "5021_SPECIALISED_SME_BRANCH_Router",
+    "Call_down_date": "17/06/21",
+    "Call_down_time": "2:30 PM",
+    "Call_Closed_Date": "18/06/21",
+    "Call_Closed_Time": "2:30 PM",
+    "StartDate_Time": "17/6/2021 2:30 PM",
+    "EndDate_Time": "18/6/2021 2:30 PM"
+  },
+  {
+    "DPCode": 389,
+    "Location": "389_KASHMIRI_GATE_SD-WAN",
+    "Call_down_date": "17/06/21",
+    "Call_down_time": "2:30 PM",
+    "Call_Closed_Date": "18/06/21",
+    "Call_Closed_Time": "5:30 PM",
+    "StartDate_Time": "17/6/2021 2:30 PM",
+    "EndDate_Time": "18/6/2021 5:30 PM"
+  },
+  {
+    "DPCode": 2590,
+    "Location": "2590_ROHINI_SECTOR_5_SD-WAN",
+    "Call_down_date": "18/06/21",
+    "Call_down_time": "9:50 AM",
+    "Call_Closed_Date": "19/06/21",
+    "Call_Closed_Time": "12:45 PM",
+    "StartDate_Time": "18/6/2021 9:50 AM",
+    "EndDate_Time": "19/6/2021 12:45 PM"
+  },
+  {
+    "DPCode": 8478,
+    "Location": "8478_ROHINI_SECTOR_3_F22_Router",
+    "Call_down_date": "19/06/21",
+    "Call_down_time": "9:45 AM",
+    "Call_Closed_Date": "09/07/21",
+    "Call_Closed_Time": "4:00 PM",
+    "StartDate_Time": "19/6/2021 9:45 AM",
+    "EndDate_Time": "9/7/2021 4:00 PM"
+  }
+]
