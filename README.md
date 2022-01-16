@@ -6,6 +6,7 @@
 - comparison operators: `===`, `==`, `!==`, `!=`
 - conditional operator: `if else`, `if - else if - else`
 - AND and OR operator: `&&`, `||`
+- Objects: JSON `{name: 'Latika', age: 23, gender: 'Female'}`
 - Function: 
 - Loops: `for loop`
 
