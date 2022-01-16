@@ -1,3 +1,4 @@
+
 console.log('latika');
 
 const name1 = 'sipu';
@@ -24,8 +25,15 @@ function calculator(num1, num2, operator){
 
 const result = calculator(7, 4, '_');
 console.log(result);
-const sentence = "This is a beautiful sentence, and I am checking her knowledge";
-const words = sentence.split(','); //split converts string to array
-console.log(words);
+const sentence = "This is a beautiful sentence and I am checking her knowledge";
+const words = sentence.split(' '); //split converts string to array
+console.log(words, words.length);
 const new_sentence = words.join(' '); //converts array to string with joining separator
 console.log(new_sentence);
+
+
+const time_12h = '12:30 PM';
+const [time, modifier] = time_12h.split(' ');
+console.log(time, modifier);
+let [hour, minutes] = time.split(':');
+console.log(hour);
