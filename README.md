@@ -41,3 +41,28 @@ for(let i = 0; i < 10; i++) {
   console.log(i);
 }
 ```
+
+### object example:
+
+```
+const student = {
+  name: 'Latika',
+  age: 23,
+  gender: 'female',
+  city: 'delhi'
+};
+console.log('student', student);
+```
+
+## Web Basics
+
+### URL
+- http://google.com (Google)
+- https://google.co.in (google with https)
+
+### Protocols: set of rules
+
+- `https`: secure protocol runs on port 443
+- `http`:  non secure protocol runs on port 80
+
+
