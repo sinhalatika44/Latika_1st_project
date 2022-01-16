@@ -62,7 +62,14 @@ console.log('student', student);
 
 ### Protocols: set of rules
 
-- `https`: secure protocol runs on port 443
-- `http`:  non secure protocol runs on port 80
+- `https`: secure protocol runs on port `443`
+- `http`:  non secure protocol runs on port `80`
+
+### URL components
+
+- protocol: `http`, `https`
+- host: `domain`
+- route/path: `/api/v1/login`
+- query parameters: `?name=latika&age=23&gender=female`
 
 
