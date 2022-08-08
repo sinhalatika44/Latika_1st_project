@@ -23,10 +23,10 @@ function calculator(num1, num2, operator){
     }
 }
 
-const result = calculator(7, 4, '_');
-console.log(result);
+const result = calculator(7, 4, '+');
+console.log('result is >> ', result);
 const sentence = "This is a beautiful sentence and I am checking her knowledge";
-const words = sentence.split(' '); //split converts string to array
+const words = sentence.split(' '); //split converts string to array or breaks string using a separator
 console.log(words, words.length);
 const new_sentence = words.join(' '); //converts array to string with joining separator
 console.log(new_sentence);
